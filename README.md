@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Mustafa Khan — a B.Tech Cybersecurity student with a strong interest in web development, programming, Linux, networking, and practical cybersecurity.<br><br>Right now, I am focused on building a solid foundation in:<br><br>Web Development<br>Linux and Networking<br>Cybersecurity Fundamentals<br>C and C++ Programming<br><br>Currently, I am working on improving my development skills, strengthening my problem-solving ability, and gaining practical experience through projects and hands-on labs.<br><br>My long-term goal is to become a skilled cybersecurity professional.<br>Current Focus<br>Learning Full Stack Web Development<br>Exploring Linux, Networking, and Cybersecurity<br>Tech Stack<br>C, C++<br>HTML<br>CSS<br>JavaScript<br>Linux<br>Git & GitHub
+Hi, I'm Mustafa Khan — a B.Tech Cybersecurity student with a strong interest in web development, programming, Linux, networking, and practical cybersecurity.<br><br>Right now, I am focused on building a solid foundation in:<br><br>C and C++ Programming<br><br>Currently, I am working on improving my Practical programming<br>
 
 
 ## 🌐 Socials:
