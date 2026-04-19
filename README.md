@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Whoami:
 Hi, I'm Mustafa Khan — a B.Tech Cybersecurity student with a strong interest in programming, Linux, networking, and practical cybersecurity.<br><br>Right now, I am focused on building a solid foundation in:<br><br>C and C++ Programming<br><br>Currently, I am working on improving my Practical programming<br>
 
 
